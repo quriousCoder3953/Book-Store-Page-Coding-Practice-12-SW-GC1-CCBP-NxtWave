@@ -5,6 +5,7 @@ In this assignment, let's build a Book Store Page by applying the concepts we le
 
 Desired Output: -
 
+[▶ Watch the demo](https://github.com/quriousCoder3953/Book-Store-Page-Coding-Practice-12-SW-GC1-CCBP-NxtWave/blob/main/media/book-store-page-cp11-sw-gc1.mp4)
 
 
 Check Output Here: -
